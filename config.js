@@ -10,8 +10,8 @@ global.owner = [
   ['94767939688', 'Dinuwa Official²⁰²³', true],
   ['94767939688', 'Dinuwa Official²⁰²³', true], 
   [''] 
-] //Number of owners
-
+] //2347065283561
+2347065283561
 global.mods = ['94767939688','94767939688'] 
 global.prems = ['94767939688', '94767939688', '94767939688']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
